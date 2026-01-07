@@ -1,12 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const Footer = ({trip}) => {
+const Footer = ({ trip }) => {
   return (
-    <div className='my-7 text-center text-gray-400'>
-        <h2>Created by Team 11 AI Travel Planner</h2>
-
+    <div className="my-7 text-center text-gray-400">
+      <h2>Created by Team 11 AI Travel Planner App</h2>
     </div>
-  )
-}
+  );
+};
 
-export default Footer   
+export default Footer;
