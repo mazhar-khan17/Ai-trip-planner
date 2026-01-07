@@ -49,7 +49,7 @@ export const SelectBudgetOptions= [
         
         id:3,
         title:'Luxury',
-        desc:'Dont worry about cost.',
+        desc:'Dont worry about cost..',
         icon: '💸',
     },
 ]
